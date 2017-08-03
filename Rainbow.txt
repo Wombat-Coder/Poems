@@ -2,3 +2,4 @@ Rainbows have a lot of colors.
 Red
 Green
 Blue
+Orange
